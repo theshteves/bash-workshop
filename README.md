@@ -24,7 +24,6 @@
 - super-brief history ??? (see matt & yoseph's readings)
 - there are a couple popular shells (esp. zsh) but we'll be sticking to bash because it's more primitive and most of zsh aims to just simplify & improve upon it
 
-
 We think of computers are simply 0s and 1s, and code is how we manipulate those bits, but we are used to code in a restricted console window.  This is portal for you to talk directly to your computer, similar to the way an application is designed to talk directly to the user.   
 
 You're probably gonna spend more time simply moving things around and accessing files than writing scripts that give you new functionality.  Working with the command line is a really competent way to work.  It's working further under the hood and what you learn about working at this level that will greatly inform your development process later on as a software engineer.  
@@ -45,11 +44,10 @@ The two notable directories then, are the root directory (at the very top)
 - touch & rm
 - cp & mv
 - mkdir & rmdir
-- clear
-- cat & editors
+- cat & editors (nano, vim, emacs)
 - understanding flags
-- finding help (man, apropos, ...then google)
-- tab-completion
+- *tab-completion & clear*
+- **finding help (man, apropos, ...then google)**
 
 #### Bash Redirection & Search
 
@@ -69,15 +67,15 @@ The two notable directories then, are the root directory (at the very top)
 
 #### Running processes (language-specific consoles etc)
 
-- ps
-- sending signals
 - jobs (listing and suspending)
 - fg & bg
+- ps
+- sending signals
 
 #### Customizing your environment (dotfiles)
 
 - environmental variables (echo & printenv)
-- .profile's & rc's (SHELL-DEPENDENT)
+- **.profile's & rc's (SHELL-DEPENDENT)**
 - aliases & functions
 - SSH & simplifying (.ssh/config)
 
@@ -88,22 +86,22 @@ The two notable directories then, are the root directory (at the very top)
 - bash scripting
 - crontab
 
-#### Sysadmin basics?
+#### *Sysadmin basics?*
 
 - package-management
 - user-management
 
 # Further reading
 
-#### [this repo](https://github.com/theshteves/bash-workshop)
+#### [*This Repo*](https://github.com/theshteves/bash-workshop)
 
-#### Other thorough UNIX tutorials
+#### Other Unix tutorials
 
 - [CSE-320 Bash reference](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [Advancing in the Bash Shell](http://samrowe.com/wordpress/advancing-in-the-bash-shell/)
 - [Advanced Bash-Scripting Guide: An in-depth exploration of the art of shell scripting](http://www.tldp.org/LDP/abs/html/)
 
-#### other shells (zsh & oh-my-zsh)
+#### Other shells
 
 - [Cool community-driven shell: oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Z Shell (zsh) tutorial](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)
@@ -112,4 +110,3 @@ The two notable directories then, are the root directory (at the very top)
 
 - [Wikipedia - Unix](https://en.wikipedia.org/wiki/Unix)
 - [dotJS Talk w/ some historical background knowledge](https://www.youtube.com/watch?v=UIDb6VBO9os)
-
