@@ -54,14 +54,7 @@ But how do we familiarize with all of these hidden options? *...I'm glad you ask
 
 - **man** - format and display the on-line manual pages
 
-
-
-
-
-
-
-- **** - 
-- **** - 
+# Time to wing it
 
 Before we move on, you should copy this document onto your desktop:
 
