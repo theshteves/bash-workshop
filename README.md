@@ -2,19 +2,36 @@
 
 ### Steven Kneiser's notes for his [Spartan Hackers](http://spartanhackers.com/) talk
 
-##### Description:
+Windows users should download PuTTY:
 
-> What's behind that hacker-green terminal, you ask?
-> Our VP Steven Kneiser knows  ...and YOU WILL TOO!
-> That's right.  Fresh off his impromptu "Surviving your first Hackathon", 
-> Steven is rebounding with the most high-energy & unassuming talk of the semester.
->
-> DON'T MISS this absurdly over-prepared workshop bundled with technical breakdowns from a > (yet to be announced) Startup Founder in the Lansing area.
-> Not you first-time?  Thought you were ahead of the curve?  ...think again.
->
-> Their goal? To get you comfortable & employer-ready with the command line in. 1. HOUR.
-> Professors WILL ASSUME you already know this.
-> Bring your chargers and empty stomachs while Steven tricks you into an invaluable skillset.
+```
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+```
+
+#### Getting Started
+
+
+
+#### Bits of Bash
+
+Copy this document onto your desktop:
+
+```shell
+curl --location goo.gl/NU44jC > unix.txt
+```
+
+# Project
+
+
+
+# Tips & Q&A
+
+
+
+
+
+
+
 
 ## BEGINNER-LEVEL (15 minutes)
 
@@ -103,10 +120,16 @@ The two notable directories then, are the root directory (at the very top)
 
 #### Other shells
 
-- [Cool community-driven shell: oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [A curated list of awesome command-line guides, frameworks, etc](https://github.com/alebcay/awesome-shell)
+- [Great resource for customizing your zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Z Shell (zsh) tutorial](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)
 
 #### More on Unix:
 
 - [Wikipedia - Unix](https://en.wikipedia.org/wiki/Unix)
 - [dotJS Talk w/ some historical background knowledge](https://www.youtube.com/watch?v=UIDb6VBO9os)
+
+#### Miscellaneous
+
+- [Python: Working with bash](https://docs.python.org/3/library/argparse.html)
+
