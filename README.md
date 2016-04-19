@@ -4,6 +4,8 @@
 
 [![Bash Video](http://img.youtube.com/vi/UrMB1Pdwja0/0.jpg)](https://www.youtube.com/watch?v=UrMB1Pdwja0)
 
+###### Click the image above to see the screencast!
+
 Windows users should download PuTTY:
 
 ```
