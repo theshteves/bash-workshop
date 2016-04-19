@@ -1,6 +1,6 @@
 # Introduction to Unix Commands
 
-### Steven Kneiser's notes for his [Spartan Hackers](http://spartanhackers.com/) talk
+[![Spartan Hackers](http://spartanhackers.com/img/spartan-hackers-banner.png)](http://spartanhackers.com)
 
 [![Bash Video](http://img.youtube.com/vi/UrMB1Pdwja0/0.jpg)](https://www.youtube.com/watch?v=UrMB1Pdwja0)
 
